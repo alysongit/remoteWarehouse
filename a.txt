@@ -1,8 +1,3 @@
 v1.0
 Alyson is a beautiful girl !
 
-v2.0
-Alyson is a beautiful girl !
-
-v3.0
-Alyson is a beautiful girl !
